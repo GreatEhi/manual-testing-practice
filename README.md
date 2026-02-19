@@ -9,6 +9,7 @@ The goal of this project is to demonstrate understanding of:
 - Test Case Design
 - Bug Reporting
 - Basic QA Documentation Structure
+This project simulates real-world QA workflow including execution and defect tracking.
 
 ---
 
