@@ -19,6 +19,7 @@ This project simulates real-world QA workflow including execution and defect tra
 - docs/Test-Scenarios.md
 - docs/Test-Cases.md
 - docs/Bug-Reports.md
+- docs/Test-Execution-Summary.md
 
 ---
 
