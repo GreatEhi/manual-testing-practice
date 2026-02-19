@@ -38,3 +38,4 @@ System should prompt user to fill required fields.
 No message displayed.
 
 **Status:** Open
+**Linked Test Case:** TC_003
